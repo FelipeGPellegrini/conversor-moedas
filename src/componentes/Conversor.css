@@ -3,3 +3,20 @@
   max-width: 300px;
   box-shadow: 0 4px 8px #000;
 }
+
+#numbertxt {
+  padding: 10px;
+  border-radius: 10px;
+  border: 0;
+  display: block;
+}
+
+#buttonclick {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#buttonclick:hover {
+  background-color: rgb(201, 201, 201);
+}
