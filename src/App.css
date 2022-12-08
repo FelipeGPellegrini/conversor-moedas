@@ -12,5 +12,16 @@ h1{
 .conversor {
   margin: 50px auto;
   background-color: rgb(198, 198, 198);
+  border-radius: 10px;
   
+}
+
+p {
+  text-align: center;
+  color: white;
+}
+
+p > a {
+  color: white;
+  text-decoration: none;
 }
