@@ -5,7 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(https://torange.biz/photofxnew/208/HD/hard-dark-black-white-208154.jpg);
+  background-color: black;
+  /* background-image: url(https://torange.biz/photofxnew/208/HD/hard-dark-black-white-208154.jpg); */
   background-size: cover;
 }
 
